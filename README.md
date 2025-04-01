@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello! I'm Tate. 👋
 
+I enjoy building things for hobby, and learning the tools to do it! 
+I am a big fan of git and use it for more then just code, it is the perfect version control system.
 <!--
 **tatewn/tatewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
